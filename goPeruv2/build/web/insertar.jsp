@@ -7,6 +7,7 @@
     </head>
     <body>
         <h2>Insertar autos</h2>
+        <h3>Probando Git Hub </h3>
         
         <form action="insertar" method="post" name="mi_form">
             Ingrese nombre del cliente: <input type="text" name="nombre">
