@@ -1,0 +1,35 @@
+*{
+	margin:0px;
+	padding:0px;
+	font-family: comic sans;
+}
+
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+.container{
+    height: 100%;
+    align-content: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+.hover:hover{
+            background: #7383DE;
+}
+
+.formato-img-slider{
+    width: 1000px;
+    height: 400px;
+}
+.formato-img-categorias {
+    width: 295px;
+    height: 150px;
+}

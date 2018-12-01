@@ -1,0 +1,35 @@
+/*--HEADER--*/
+.navbar{
+	margin-bottom: 0;
+}
+
+.jumbotron {
+	background: #428BCA;
+	color: #fff;
+	padding: 20 px 0;
+	height: 200px;
+}
+
+.arribaizquierda{
+padding-top:  35px;
+width:500px;
+height:0px;
+text-align:left;
+}
+
+.jumbotron .titulo-web{
+	font-size: 25px;
+}
+
+/*--iframe para el inicio de la pw--*/
+iframe{
+	border: none;
+}
+
+/*--centrar bloques--*/
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+

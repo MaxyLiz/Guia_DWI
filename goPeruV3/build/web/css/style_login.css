@@ -1,0 +1,91 @@
+.container{
+    height: 100%;
+    align-content: center;
+}
+
+.card{
+    height: 370px;
+    margin-top: auto;
+    margin-bottom: auto;
+    width: 400px;
+    background-color: #f34545 !important;
+}
+
+.card-header h3{
+    color: white;
+}
+
+.card-header {
+    padding: .75rem 1.25rem;
+    margin-bottom: 0;
+    background-color:  black;
+    border-bottom: 1px solid  rgba(0,0,0,.125);
+}
+
+.input-group-prepend span{
+    width: 50px;
+    background-color: #337ab7;
+    color: black;
+    border:0 !important;
+}
+
+input:focus{
+    outline: 0 0 0 0  !important;
+    box-shadow: 0 0 0 0 !important;
+
+}
+
+.remember{
+    color: white;
+}
+
+.remember input
+{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.login_btn{
+    color: black;
+    background-color: #337ab7;
+    width: 100px;
+}
+
+.login_btn:hover{
+    color: black;
+    background-color: white;
+}
+
+.links{
+    color: white;
+}
+
+.links a{
+    margin-left: 4px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+
+.card-footer {
+    padding: .75rem 1.25rem;
+    background-color:  #f34545;
+    border-top: 1px solid rgba(0,0,0,.125);
+}
+
+.formato-img {
+    width: 300px;
+    height: 150px;
+}
+
+.hdr {
+  background: url("img/fondo.jpg") repeat-x;
+  width: 100%;
+  text-align: center;
+}
